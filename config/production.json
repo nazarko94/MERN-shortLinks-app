@@ -1,0 +1,6 @@
+{
+    "port": 6000,
+    "jwtSecret": "taras mern",
+    "mongoUri": "mongodb+srv://taras:1234qwer@cluster0.eps3b.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:6000"
+}
